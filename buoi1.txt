@@ -1,0 +1,11 @@
+Kiến thức cơ bản về C#
+Được phát triển bởi microsoft nên nó chỉ chạy được trên nền tảng đó kết hợp với .NET framwork
+đặc trưng: nó là ngôn ngữ kêt hợp từ C++ và java nên nó kế thừa được những đặc điểm mạnh mẽ của 2 ngôn ngữ trên và khắc phục được những nhược điểm của nó
+Ngôn ngữ thuần hướng đối tượng
+Ưu điểm: 
+    - có khoảng 80 từ khóa và hơn 10 kiểu dữ liệu nên nó có thể dễ học
+    - ngôn ngữ an toàn safeType (không khuyến khích sử dụng con trỏ nếu sử dụng thì phải khai báo unsafe)
+    - Tối ưu hóa vùng nhớ vì khi không sử dụng thì nó sẽ tái sử dụng nó cho chố khác
+Nhược điểm: 
+    - Chỉ chạy được trên windown nên nó có thể ít người học
+    - Hộ trợ yếu với phần cứng nó chủ yếu dựa vào windown
