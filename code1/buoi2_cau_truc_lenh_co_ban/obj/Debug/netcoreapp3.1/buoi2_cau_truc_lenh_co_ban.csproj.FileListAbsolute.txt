@@ -1,0 +1,13 @@
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.exe
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.deps.json
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.runtimeconfig.json
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.runtimeconfig.dev.json
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.dll
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\bin\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.pdb
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.csprojAssemblyReference.cache
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.AssemblyInfoInputs.cache
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.AssemblyInfo.cs
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.csproj.CoreCompileInputs.cache
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.dll
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.pdb
+E:\C_Sharp\code1\buoi2_cau_truc_lenh_co_ban\obj\Debug\netcoreapp3.1\buoi2_cau_truc_lenh_co_ban.genruntimeconfig.cache

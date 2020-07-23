@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "buoi2_cau_truc_lenh_co_ban/1.0.0": {
+        "runtime": {
+          "buoi2_cau_truc_lenh_co_ban.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "buoi2_cau_truc_lenh_co_ban/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
