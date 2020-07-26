@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "buoi2_cau_truc_lenh_co_ban", "buoi2_cau_truc_lenh_co_ban\buoi2_cau_truc_lenh_co_ban.csproj", "{11AC1E1E-046B-4364-8CDF-B693EADE0E04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai7", "bai7\bai7.csproj", "{5483F74E-6953-4A56-B04C-95E632049E56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "bai7", "bai7\bai7.csproj", "{5483F74E-6953-4A56-B04C-95E632049E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai8", "bai8\bai8.csproj", "{876AFDBE-15DC-495C-99BB-E5FCD45765D5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5483F74E-6953-4A56-B04C-95E632049E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5483F74E-6953-4A56-B04C-95E632049E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5483F74E-6953-4A56-B04C-95E632049E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{876AFDBE-15DC-495C-99BB-E5FCD45765D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{876AFDBE-15DC-495C-99BB-E5FCD45765D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{876AFDBE-15DC-495C-99BB-E5FCD45765D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{876AFDBE-15DC-495C-99BB-E5FCD45765D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

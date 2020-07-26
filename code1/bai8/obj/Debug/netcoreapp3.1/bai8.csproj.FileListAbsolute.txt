@@ -1,0 +1,13 @@
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.exe
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.deps.json
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.runtimeconfig.json
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.runtimeconfig.dev.json
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.dll
+E:\C_Sharp\code1\bai8\bin\Debug\netcoreapp3.1\bai8.pdb
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.csprojAssemblyReference.cache
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.AssemblyInfoInputs.cache
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.AssemblyInfo.cs
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.csproj.CoreCompileInputs.cache
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.dll
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.pdb
+E:\C_Sharp\code1\bai8\obj\Debug\netcoreapp3.1\bai8.genruntimeconfig.cache
