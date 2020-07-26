@@ -1,0 +1,13 @@
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.csprojAssemblyReference.cache
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.AssemblyInfoInputs.cache
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.AssemblyInfo.cs
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.csproj.CoreCompileInputs.cache
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.exe
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.deps.json
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.runtimeconfig.json
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.runtimeconfig.dev.json
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.dll
+E:\C_Sharp\code1\bai7\bin\Debug\netcoreapp3.1\bai7.pdb
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.dll
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.pdb
+E:\C_Sharp\code1\bai7\obj\Debug\netcoreapp3.1\bai7.genruntimeconfig.cache
